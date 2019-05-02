@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1556760890 source:c:\users\juan pablo lamas\documents\facultad\modelo_abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"objeto.h"
+
+1556760471 c:\users\juan pablo lamas\documents\facultad\modelo_abm\objeto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1556760699 source:c:\users\juan pablo lamas\documents\facultad\modelo_abm\objeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"objeto.h"
+
